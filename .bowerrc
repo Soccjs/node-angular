@@ -1,0 +1,9 @@
+
+{
+  "directory": "bower_components",
+  "endpoint": "https://bower.mycompany.com",
+  "json": "bower.json",
+  "searchpath": [
+    "https://bower.herokuapp.com"
+  ]
+}
